@@ -1,0 +1,10 @@
+*.jsonl
+*.json
+*.pth
+*.txt
+*.log
+**/llm_training_data/
+**/distilled_model/
+**/logs/
+venv/
+
